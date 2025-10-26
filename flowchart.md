@@ -1,16 +1,21 @@
 # Flowchart ( Diagram Alur )
 
 # Menu Utama 
-<img width="203" height="381" alt="image" src="https://github.com/user-attachments/assets/fc2cb804-39c1-4c76-9c7a-3a84ad6f4ad7" />
+<img width="291" height="781" alt="Diagram Tanpa Judul-Halaman-4 drawio" src="https://github.com/user-attachments/assets/51a527a5-a399-4ab1-89c2-329e65eb9fa3" />
+
 
 # Sistem Login
-<img width="779" height="244" alt="image" src="https://github.com/user-attachments/assets/036a61b9-b239-405b-b3e8-f6ce65cf5c52" />
+<img width="971" height="291" alt="Diagram Tanpa Judul-Halaman-5 drawio" src="https://github.com/user-attachments/assets/8434a079-259a-4ef1-9d61-ef4f34f0008a" />
+
 
 # Menu User
-<img width="707" height="587" alt="image" src="https://github.com/user-attachments/assets/ce682847-cbe1-4f22-8ecb-72439a53de8b" />
+<img width="1719" height="1475" alt="Diagram Tanpa Judul-Halaman-2 drawio" src="https://github.com/user-attachments/assets/5a43fb16-451e-4f23-af60-8ffff6726b66" />
+
 
 # Cek Saldo dan Isi Saldo
-<img width="1122" height="386" alt="image" src="https://github.com/user-attachments/assets/1b5d9a6b-8060-479c-8ca9-da9c0edd810b" />
+<img width="1961" height="641" alt="Diagram Tanpa Judul-Halaman-6 drawio" src="https://github.com/user-attachments/assets/388e8c55-9ad2-4202-a451-4e17e3ca4f28" />
+
 
 # Menu Admin
-<img width="460" height="500" alt="image" src="https://github.com/user-attachments/assets/5166b5b9-ff38-4755-8930-272cf590f1ac" />
+<img width="1404" height="1511" alt="Diagram Tanpa Judul-Page-3 drawio" src="https://github.com/user-attachments/assets/2e762309-46f7-4789-81cc-cca62c4e0fbd" />
+
